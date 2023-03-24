@@ -91,6 +91,8 @@ Note that almost all licences cater for source code of software — Creative Com
 # 2. What is The FREE Licence Project ?
 The FREE Licence Project started out of necessity. Although there are many different licensing schemes available today, still they all left us repining. They did not meet our needs to full extent. So, we had to create new ones ourselves, had to be able to present them to the world and at the same time make them available for others to use. Residing on GitHub since 2023, The FREE Licence Project acts as the vehicle for this purpose.
 
+Since then, The FREE Licence Project aims to become the new go-to standard in licensing for artists and creators of free cultural work.
+
 In contrast to many other licence documents, we aspire to keep our licence texts very concise and intelligible, so that no-one needs to be afraid of reading such an important document.
 
 
