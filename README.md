@@ -43,7 +43,7 @@ Licence: FREE-NA
 github.com/thefreelicenceproject/free-na
 ```
 
-With that, you, as the creator, made your work freely available to everyone by (a) granting comprehensive rights of use, (b) including the right to produce derivative work, (c) made sure derivative work also stays free, and (d) prohibited the use in aggressive acts by applying the non-aggression principle.
+With that, you, as the creator, made your work freely available to everyone by (a) granting comprehensive rights of use, (b) including the right to produce derivative work, (c) made sure derivative work also stays free and (d) prohibited the use in aggressive acts by applying the non-aggression principle.
 
 Congratulation, you just created free cultural work!
 
@@ -113,7 +113,7 @@ Although being primarily focussed on works of art, this does not prevent The FRE
 ## 3.3 No attribution by default
 Another downside of available licences applicable to works of art is the requirement to attribute the creator in all circumstances. This can be unaesthetic, cumbersome or even impossible in some cases. That is why with a FREE Licence there is no attribution required.
 
-We understand the desire of artists to be credited for their work. That is why we encourage the user to give credit to an artist whose work he is using. For that reason we created the `LICENCE-APPENDIX` accompanying our licences; a text file where the original creator can leave notes for a user concerning donations and a way to give credit. We do strongly recommend to attribute the creator — but it is just not strictly required by default.
+We understand the desire of artists to be credited for their work — and rightly so. That is why we encourage the user to give credit to an artist whose work he is using. For that reason we created the `LICENCE-APPENDIX` accompanying our licences; a text file where the original creator can leave notes for a user concerning donations and a way to give credit. We do strongly recommend to attribute the creator — but it is just not strictly required by default.
 
 In our understanding, only when this strict requirement for attribution is loosened, a work can be considered as a free work of art or free cultural work.
 
@@ -129,7 +129,7 @@ With all this restriction loosening, then why not simply put the work into the p
 
 
 ## 3.5 Non-aggression principle
-The non-aggression principle is the keystone of our licences. This means, using work licensed with a FREE Licence can be done, but rules out the utilisation for or during aggressive acts. The phrasing used in our licence texts is:
+The non-aggression principle is the keystone of our licences. This means, work licensed with a FREE Licence can be used, but it rules out the utilisation for or during aggressive acts. The phrasing used in our licence texts is:
 
 > The work shall not be used with intention to carry out aggression.
 
@@ -137,7 +137,7 @@ While “aggression” is defined as:
 
 > … any act that is (i) harmful to body or mind of a living being or (ii) violates, erodes or undermines the freedom or self-determination of a living being or (iii) damages, destroys or purloins property or possession of a living being — exempt a defence against such an act of aggression.
 
-This might sound like a very strong but at the same time pretty weak restriction. However, this way a user is “forced” to second guess and contemplate his motivation before using the work for his intended purpose. It may be true, that in most cases no-one may be able to verify whether this condition is met for a certain use case — but we are convinced that the explicit exclusion of aggression in the rights of use, granted by a FREE Licence, appeals to anyone’s own conscience and does its part there.
+This might sound like a very strong but at the same time pretty weak restriction. However, this way a user is “forced” to second guess and contemplate his motivation before using the work for his intended purpose. It may be true, that in most cases no-one may be able to verify whether this condition is met for a certain use case — but we are convinced that the explicit exclusion of aggression in the rights of use granted by a FREE Licence, appeals to anyone’s own conscience and does its part there.
 
 Like a free software must remain free and a free cultural work must remain free, it was our intention that a creative work must fulfil the requirement to be used with good intent and evade evil. We are actively challenging for a moral judgment to be made: for one thing by the creator of a work when in the process of deciding whether to use a FREE Licence or not – on the other hand by the user of a work later on.
 
@@ -192,7 +192,7 @@ github.com/thefreelicenceproject/free-na
 
 (B) Add the `LICENCE` file from the licence’s repository to your work, if the kind and the form of your work allows for it.
 
-(C) Use the text inside of the `LICENCE` file and add it close-by your work.
+(C) Use the text from within the `LICENCE` file and add it close-by your work.
 
 
 
@@ -218,7 +218,7 @@ Of course you can also come up with your own ideas to signal the licence and mak
 
 
 ## 4.5 How to handle the `LICENCE-APPENDIX` template
-You may have noticed that in every licence repository there is an adjacent `LICENCE-APPENDIX` file. Use this to add what we call the “creator’s notes”. Edit the file according to your needs and add it to your work using method (B) or (C) described with the `LICENCE` file in the section above.
+You may have noticed that in every licence repository there is an adjacent `LICENCE-APPENDIX` file. Use this to add what we call the “creator’s notes”. Edit the file according to your needs and add it to your work using method (B) or (C) described for the `LICENCE` file in the section above.
 
 However, we recommend appending the content of the `LICENCE-APPENDIX` file to the `LICENCE` file itself. We simply keep them separate in the repositories, to make clear what is the official licence text and what is “just” the appendix.
 
