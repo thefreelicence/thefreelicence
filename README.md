@@ -40,7 +40,7 @@ You can release your work under the FREE-NA Licence simply by placing the follow
 
 ```
 Licence: FREE-NA
-github.com/thefreelicenceproject/free-na
+github.com/thefreelicence/free-na
 ```
 
 With that, you, as the creator, made your work freely available to everyone by (a) granting comprehensive rights of use, (b) including the right to produce derivative work, (c) made sure derivative work also stays free and (d) prohibited the use in aggressive acts by applying the non-aggression principle.
@@ -185,7 +185,7 @@ Applying a licence to your work is mind-boggling easy and you even can choose fr
 
 ```
 Licence: FREE-NA
-github.com/thefreelicenceproject/free-na
+github.com/thefreelicence/free-na
 ```
 
 … or a more verbose form of that, should you choose so. This example is done with FREE-NA as the licence, so should you prefer FREE-NA-ND, you can use this accordingly.
